@@ -11,7 +11,7 @@ use FSHL;
  *
  * @copyright  David Grudl
  */
-class Convertor
+class Converter
 {
 	const HOMEPAGE = 'homepage';
 
