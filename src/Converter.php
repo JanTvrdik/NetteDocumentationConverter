@@ -16,7 +16,7 @@ class Converter
 	const HOMEPAGE = 'homepage';
 
 	/** @var Link */
-	private $current;
+	public $current;
 
 	/** @var string */
 	public $html;
